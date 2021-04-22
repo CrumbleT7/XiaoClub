@@ -1,2 +1,1 @@
-# XiaoClub
-First Github Web page
+# Welcome to XiaoClub ~
