@@ -4,6 +4,5 @@
 
 ### 请期待...
 
-![GitHub Logo](/images/壁纸.jpeg)
-Format: ![Alt Text](url)
+![GitHub Logo](壁纸.jpeg)
 
